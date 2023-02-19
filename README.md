@@ -43,5 +43,5 @@ In order to get rid of the interface freezes on large lists adjust the input del
  vstSearcher.SetInputDelay(1000); // in ms
  ```
 
-## Licence 
+## License 
 [MIT License](https://github.com/rub1q/VstSearcher/blob/main/LICENSE)
